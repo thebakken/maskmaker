@@ -3118,6 +3118,7 @@ d},Unpin(){this._SetPinInst(null);this._mode="";this._propSet.clear();this._pinI
 		{disclaimer: 0},
 		{startScreenDecor: 0},
 		{startButotn: 0},
+		{Mask_Body_w_Bandana: 0},
 		{Family1: 0},
 		{toggles: 0},
 		{ElapsedTime: 0},
